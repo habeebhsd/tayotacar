@@ -289,7 +289,21 @@ footer {
     }
 
     .secondpara_img img {
-        height: 240px;
+        height: 200px;
+    }
+
+    .u_section_div {
+        margin: 129px 0px;
+    }
+
+    .thirdparaimg img {
+        margin-top: 60px;
+        height: 170px;
+    }
+
+    .div_img img {
+        margin: 44px 0px 0px 0px;
+        height: 116px;
     }
 
     .secondpara_div {
@@ -316,7 +330,7 @@ footer {
 
     .thirdparaimg img {
         margin-top: 60px;
-        height: 190px;
+        height: 185px;
     }
 
     .u_section {
@@ -345,22 +359,19 @@ footer {
     }
 
     .secondpara_img img {
-        height: 230px;
+        height: 225px;
     }
 
     .thirdparaimg1 img {
-        height: 230px;
+        height: 235px;
     }
 
     .div_img img {
         margin: 44px 0px 0px 0px;
-        height: 125px;
+        height: 115px;
     }
 
-    .thirdparaimg img {
-        margin-top: 60px;
-        height: 189px;
-    }
+
 
 
 
