@@ -50,6 +50,7 @@ header {
 
 .imgdiv img {
     height: 266px;
+    width: 100%;
 }
 
 .div_img img {
