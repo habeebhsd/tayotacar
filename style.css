@@ -45,7 +45,16 @@ header {
 
 .firstpara {
     text-align: center;
-    margin: 30px 0px;
+    margin: 50px 0px;
+}
+
+.imgdiv img {
+    height: 266px;
+}
+
+.div_img img {
+    margin: 70px 0px 0px 230px;
+    height: 250px;
 }
 
 
